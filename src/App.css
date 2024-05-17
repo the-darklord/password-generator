@@ -1,0 +1,18 @@
+.custom-checkbox {
+    width: 1.25rem;
+    height: 1.25rem;
+}
+
+@media (min-width: 768px) {
+    .custom-checkbox {
+        width: 1.5rem;
+        height: 1.5rem;
+    }
+}
+
+@media (min-width: 1024px) {
+    .custom-checkbox {
+        width: 1.75rem;
+        height: 1.75rem;
+    }
+}
